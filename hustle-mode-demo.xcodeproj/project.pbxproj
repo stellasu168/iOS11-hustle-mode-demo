@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		550D0B981F2F20C700280B6D /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 558BAB9F1F2C0398003087BF /* hustle-on.wav */; };
 		558BAB8E1F2C013A003087BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558BAB8D1F2C013A003087BF /* AppDelegate.swift */; };
 		558BAB901F2C013A003087BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558BAB8F1F2C013A003087BF /* ViewController.swift */; };
 		558BAB931F2C013A003087BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 558BAB911F2C013A003087BF /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 		558BAB941F2C013A003087BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		558BAB971F2C013A003087BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		558BAB991F2C013A003087BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		558BAB9F1F2C0398003087BF /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "hustle-mode-code-assets/assets/Assets/hustle-on.wav"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		558BAB8C1F2C013A003087BF /* hustle-mode-demo */ = {
 			isa = PBXGroup;
 			children = (
+				558BAB9F1F2C0398003087BF /* hustle-on.wav */,
 				558BAB8D1F2C013A003087BF /* AppDelegate.swift */,
 				558BAB8F1F2C013A003087BF /* ViewController.swift */,
 				558BAB911F2C013A003087BF /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				550D0B981F2F20C700280B6D /* hustle-on.wav in Resources */,
 				558BAB981F2C013A003087BF /* LaunchScreen.storyboard in Resources */,
 				558BAB951F2C013A003087BF /* Assets.xcassets in Resources */,
 				558BAB931F2C013A003087BF /* Main.storyboard in Resources */,
